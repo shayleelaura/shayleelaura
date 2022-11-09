@@ -2,7 +2,7 @@
 
 I am a Data Analyst at Elder Research
 
-<!--
+
 **shayleelaura/shayleelaura**
 
 - 🔭 I’m currently working on ...
@@ -13,4 +13,4 @@ I am a Data Analyst at Elder Research
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
