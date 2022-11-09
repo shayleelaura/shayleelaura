@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Shaylee!
+
+I am a Data Analyst at Elder Research
 
 <!--
-**shayleelaura/shayleelaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**shayleelaura/shayleelaura**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
